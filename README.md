@@ -48,7 +48,7 @@
   
 
 <div align="center">
-<img src="https://cdnb.artstation.com/p/assets/images/images/009/280/029/original/bryn-felton-pitt-bryn-computer-01.gif?1518092273" align="center" style="width: 100%" />
+<img src="https://cdnb.artstation.com/p/assets/images/images/009/280/029/original/bryn-felton-pitt-bryn-computer-01.gif?1518092273" align="center" style="width: 100%; margin: auto;" />
 </div>  
 
 
