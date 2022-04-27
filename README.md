@@ -9,7 +9,7 @@
 - currently learning software engineering at 42 School 🧠  
   
 
-- base in Mulhouse, France 🇫🇷🥨  
+- based in Mulhouse, France 🇫🇷🥨  
   
 
 ## skills  
