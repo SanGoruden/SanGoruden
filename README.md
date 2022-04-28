@@ -6,10 +6,10 @@
 - currently working on minishell, a minimal version of bash coded in C. 🧰  
   
 
-- currently learning software engineering at 42 School 🧠  
+- currently learning software engineering at 42 School. 🧠  
   
 
-- based in Mulhouse, France 🇫🇷🥨  
+- based in Mulhouse, France. 🇫🇷🥨  
   
 
 ## skills  
