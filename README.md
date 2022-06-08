@@ -3,7 +3,7 @@
 # hi 🤗 im léandre  
   
 
-- currently working on minishell, a minimal version of bash coded in C. 🧰  
+- currently working on cub3d, a raytracing engine coded in C. 🧰  
   
 
 - currently learning software engineering at 42 School. 🧠  
