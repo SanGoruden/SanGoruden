@@ -3,7 +3,7 @@
 # hi 🤗 im léandre  
   
 
-- currently working on cub3d, a raytracing engine coded in C. 🧰  
+- currently working on ft_irc, an IRC server coded in CPP. 🧰  
   
 
 - currently learning software engineering at 42 School. 🧠  
