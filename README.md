@@ -3,7 +3,7 @@
 # hi 🤗 im léandre  
   
 
-- currently working on ft_irc, an IRC server coded in CPP. 🧰  
+- currently working on ft_transcendence, a multiplayer pong webapp. 🧰  
   
 
 - currently learning software engineering at 42 School. 🧠  
