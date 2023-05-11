@@ -3,7 +3,7 @@
 # hi 🤗 im léandre  
   
 
-- currently working on ft_transcendence, a multiplayer pong webapp. 🧰  
+- currently working on tinkey-winkey, a windows keylogger.
   
 
 - currently learning software engineering at 42 School. 🧠  
