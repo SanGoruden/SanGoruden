@@ -3,7 +3,7 @@
 # hi 🤗 im léandre  
   
 
-- currently working on tinkey-winkey, a windows keylogger.
+- currently working on ft_ls, a copy of the ls command.
   
 
 - currently learning software engineering at 42 School. 🧠  
