@@ -27,9 +27,6 @@
   
 
 <div align="center">
-<a href="https://www.fiverr.com/mblcoding" target="_blank">
-  <img src=https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white alt=fiverr style="margin-bottom: 5px;" />
-</a>
 <a href="https://twitter.com/erndael" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
@@ -39,9 +36,6 @@
 <a href="https://dev.to/erndael" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/SanGoruden" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
 </div>  
 
 
