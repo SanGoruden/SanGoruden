@@ -1,55 +1,33 @@
-<table><tr><td valign="top" width="50%">
+# hello👋 i am Léandre 
 
-# hi 🤗 im léandre  
+<img align='right' src="https://i.pinimg.com/564x/24/9e/6b/249e6b727205861e4c367173d95007e6.jpg" width="230">
+
+- currently working on puls, a webapp to connect physiotherapy patients and their coach 💪
   
 
-- currently working on ft_ls, a copy of the ls command.
+- learning computer science at <a href="https://42.fr/en/homepage/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/512px-42_Logo.svg.png" alt="42" height="20" /> </a>
   
 
-- currently learning software engineering at 42 School. 🧠  
+- Mulhouse, France. 🇫🇷🥨
+
+
+<br />
   
-
-- based in Mulhouse, France. 🇫🇷🥨  
-  
-
-## skills  
-  
-
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-</div>  
-
-## socials  
-  
-
-<div align="center">
-<a href="https://twitter.com/erndael" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/léandre-blanchegeley-618152224" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://dev.to/erndael" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-</div>  
 
-
-</td><td valign="top" width="50%">
-
-  
-  
-<br />
-<br />
-<br />
-<div align="center">
-<img src="https://cdnb.artstation.com/p/assets/images/images/009/280/029/original/bryn-felton-pitt-bryn-computer-01.gif?1518092273" align="center" valign="bottom"/>
-</div>  
-
-
-</td></tr></table>
-<br />
+## skills 
+<div> 
+  <div> 
+    <img style="margin: 10px" src="https://images.ctfassets.net/23aumh6u8s0i/6pjUKboBuFLvCKkE3esaFA/5f2101d6d2add5c615db5e98a553fc44/nextjs.jpeg" alt="NextJS" height="50" /> 
+    <img style="margin: 10px" src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" alt="Supabase" height="50" /> 
+    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" alt="React" height="50" />
+  </div>
+  <br />
+  <div>
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
+  </div>
+</div>
